@@ -81,9 +81,6 @@ The script includes a function to visualize 12 test images with predicted and ac
 - ✅ Blue: Correct
 - ❌ Red: Incorrect
 
-![Sample Predictions](example_visualization.png)  
-<sub>*Replace with actual screenshot if needed.*</sub>
-
 ## 📎 References
 
 - [TensorFlow Documentation](https://www.tensorflow.org/)
